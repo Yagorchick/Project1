@@ -41,7 +41,6 @@ namespace IwanovProject_24IS11_2_
                         if (hasKey)
                         {
                             Console.WriteLine(playerName + ", ты успешно совершил Побег!");
-                            runaway = false;
                         }
                         else Console.WriteLine("Дверь заперта... тебе нужна Отмычка!");
                         break;
